@@ -8,11 +8,8 @@
 
 This will be the space  for my PDFA (programming-for-data-analytics) work for assignments and a mini project exercises.
 
-Resources
 
-Resources for this modules will be pushed to the repository:
-
-[PFDA by Andrew Beatty](Resources for this modules will be pushed to the repository:)
+PFDA by Andrew Beatty.
 
 Learning outcomes
 On completion of this module the learner will/should be able to;
@@ -21,5 +18,3 @@ Programmatically create plots and other visual outputs from data.
 Design computer algorithms to solve numerical problems.
 Create software that incorporates and utilises standard numerical libraries.
 Employ appropriate data structures when programming for data-intensive applications.
-
-
